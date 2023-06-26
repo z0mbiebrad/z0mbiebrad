@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there!!👋 I'm Bradley Evans and its nice to meet you!
 <!--
 **z0mbiebrad/z0mbiebrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
