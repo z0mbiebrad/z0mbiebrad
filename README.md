@@ -6,7 +6,6 @@ Here are some ideas to get you started:-->
 
 - 💻 FullStack Developer utilizing PHP, Laravel, MySQL, and Tailwind CSS.
 - 🔭 I’m currently working on finishing a blog, as well as an advanced to-do app.
-- 🌱 I’m actively learning Vue.js, and refreshing my JavaScript skills.
 - 🐘 Fun fact: Elephants can’t jump.
 - 📫 <a href="mailto:bradleyt.evans@gmail.com"> Email Me! </a>
 
