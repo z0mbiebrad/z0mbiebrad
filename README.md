@@ -2,6 +2,7 @@
 
 - 💻 FullStack Developer utilizing PHP, Laravel, JS, MySQL, and Tailwind CSS.
 - 🔭 Working on a book search and tracker app called Libri! Check bio for link
+- Check out my blog for coding updates! <a href="z0mbieblog.com">z0mbieblog</a>
 - Learning to play the guitar!
 - 📫 <a href="mailto:bradleyt.evans@gmail.com"> Email Me! </a>
 
