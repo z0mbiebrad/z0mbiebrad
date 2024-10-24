@@ -1,5 +1,5 @@
 
-#👋 I'm Bradley Evans and its nice to meet you!
+👋 I'm Bradley Evans and its nice to meet you!
 
 - Laravel Developer.
 - Checkout <a href="https://librisearch.com">librisearch</a>!
