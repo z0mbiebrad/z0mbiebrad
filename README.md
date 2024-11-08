@@ -5,4 +5,4 @@
 - <a href="https://librisearch.com">librisearch</a>!
 - <a href="https://bradleytevans.com">portfolio</a>!
 - <a href="https://z0mbieblog.com">z0mbieblog</a>
-- s<a href="mailto:bradleyt.evans@gmail.com">✉️</a>
+- <a href="mailto:bradleyt.evans@gmail.com">📫</a>
