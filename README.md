@@ -3,4 +3,4 @@
 
 Tailwind Alpine Livewire Laravel
 
-DigitalOcean LaravelForge
+LaravelForge
